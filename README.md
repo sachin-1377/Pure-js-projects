@@ -1,8 +1,5 @@
 # Pure-js-projects
 
-
-# Pure JS Projects
-
 A growing collection of small JavaScript practice projects — built using pure JavaScript only, with no HTML, CSS, or frameworks involved.
 
 Each project lives in its own folder and focuses on strengthening core JavaScript fundamentals such as functions, arrays, strings, loops, and logic building.
